@@ -78,7 +78,7 @@ const styles = {
   },
   gridContainer: {
     display: 'grid',
-    gridTemplateColumns: 'repeat(5, 100px)',
+    gridTemplateColumns: 'repeat(3, 100px)',
     gap: '10px',
     justifyContent: 'center',
   },
